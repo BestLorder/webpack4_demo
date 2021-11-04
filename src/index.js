@@ -1,5 +1,5 @@
-import acss from './css/a.css'
+// import acss from './css/a.css'
 const s = () => {
-  console.log('s init')
-}
-s()
+  console.log("s init");
+};
+s();
